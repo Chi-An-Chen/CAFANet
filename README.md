@@ -36,3 +36,18 @@ FID score   : 24.4623
 
 ## 6. Hardware
 The model architectures proposed in this study are implemented using the PyTorchDL framework, and training is conducted on hardware featuring an Intel® Core™ i7-12700 CPU and Nvidia RTX 3060 12GB graphics processing unit (GPU).
+
+## Citation： 
+```
+@INPROCEEDINGS{ITAC2024_virtual_tryon,
+  author={Ke, Liang-Ying and Hsia, Chih-Hsien and Hsu, Liang-I and Chen, Chi-An},
+  booktitle={2024 The Information Technology and Applications Conference (ITAC 2024)}, 
+  title={基於可組裝串聯外觀流之虛擬服裝試穿}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={},
+  keywords={Virtual try-on;Appearance flow;Composable networks;Computer graphics;Clothing simulation},
+  doi={}
+}
+```
